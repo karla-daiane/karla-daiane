@@ -61,3 +61,17 @@
   ### Acesse o repositório
   [GitHub - Calculadora IMC](https://github.com/karla-daiane/projeto-calculadora-imc)
 </details>
+
+---
+
+☑️ [Lista de Tarefas](https://karla-daiane.github.io/trabalho-lista-de-tarefas/)
+
+<details>
+  <summary>Clique para saber mais</summary>
+  
+  ### Descrição do Projeto
+  Este projeto consiste em uma aplicação de Lista de Tarefas desenvolvida com HTML, CSS e JavaScript, como parte de uma atividade prática do Curso Técnico de Desenvolvimento de Sistemas na PROZ Educação. A ferramenta permite que os usuários adicionem, concluam e removam tarefas, que são armazenadas no local storage, garantindo a persistência dos dados mesmo após o recarregamento da página.
+
+  ### Acesse o repositório
+  [GitHub - Lista de Tarefas](https://github.com/karla-daiane/trabalho-lista-de-tarefas)
+</details>
