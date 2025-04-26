@@ -1,5 +1,5 @@
 # Karla Daiane
-* Acadêmica no curso de **Ciência da Computação** no **IFNMG**.
+* Acadêmica 1° Período **Ciência da Computação - IFNMG**.
 * Estudante do curso **Técnico em Desenvolvimento de Sistemas** na PROZ Educação. 
 
 ## Minha redes
