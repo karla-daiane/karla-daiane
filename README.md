@@ -1,7 +1,6 @@
 # Karla Daiane
+* Acadêmica no curso de **Ciência da Computação** no **IFNMG**.
 * Estudante do curso **Técnico em Desenvolvimento de Sistemas** na PROZ Educação. 
-* Participante do Bootcamp **Claro - Java com Spring Boot**, com cursos ministrados pela Dio.
-* Aluna da Turma 7 do **Programa ONE (Oracle Next Education)**, com cursos ministrados pela Alura.
 
 ## Minha redes
 <center>
